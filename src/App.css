@@ -1,0 +1,125 @@
+.main{
+    
+    background-image: url('https://st.depositphotos.com/1000441/2561/i/450/depositphotos_25613193-stock-photo-diamonds.jpg') ;
+    height: 100vh;
+   
+    background-size: 100%;
+ 
+     height: 100vh;
+}  
+
+.login-container{
+    margin-top: 120px;
+}
+
+.field{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 300px;
+    margin-bottom: 9px;
+}
+span{
+    color: blue
+}
+
+.signup-container{
+    background-image: url("https://media.istockphoto.com/photos/acrylic-painting-half-black-and-white-picture-id1128582666?k=20&m=1128582666&s=170667a&w=0&h=Hn_nK2yMpPw4nTxzZgwlMRG8xfIsnHLxCGg_DhbWHNM=");
+    
+    background-size: 100%;
+ 
+     height: 100vh;
+}
+
+.body{
+    margin-top: 70px;
+}
+
+.right{
+    text-align: right;
+}
+
+
+.sidebar{
+    background: #0eaf0e;
+    height: 100vh;
+}
+
+.logo{
+    color: white;
+}
+
+.sidebaricons{
+    width: 18px;
+    height: 18px;
+    margin-left: 10px;
+    
+}
+
+.sidebarnames{
+    color: white;
+    margin-left: 30px;
+}
+
+.dropdown{
+    width: 20px;
+    height: 20px;
+    margin-left: 160px;
+}
+
+.ifieldcustom{
+    margin-bottom: 15px;
+ 
+}
+
+.dropdownm{
+    width: 20px;
+    height: 20px;
+    margin-left: 110px;
+}
+
+.lefticon{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.searchicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 4px;
+    background-color: #0eaf0e;
+    border-radius: 6px;
+}
+
+.usericon{
+    height: 30px;
+    margin-top: 4px;
+    margin-left: 700px;
+}
+.downarrow{
+    height: 30px;
+
+}
+
+.custinput{
+    height: 40px !important;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.input-group{
+    height: 40px;
+}
+.btn{
+    margin-right: 30px;
+    width: 300px;
+}
+
+.accountdetails{
+     /* margin-right: 400px; */
+}
+
+.custominput {
+    /* margin-left: 200px; */
+}
